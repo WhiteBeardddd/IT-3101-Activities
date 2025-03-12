@@ -4,19 +4,19 @@
 
 In this activity, I built two microservices—**Users** and **Posts**—each with its own database. The goal was to apply database migrations and set up GraphQL endpoints for CRUD operations.  
 
-### Requirements
+### Activity Requirements
 
 - Create two separate microservices: `users-service` and `posts-service`.  
-- Initialize a Node.js project in each folder with necessary dependencies (e.g., Prisma, Apollo Server, SQLite).  
-- Configure a Prisma schema for each service:  
+- Initialize a *Node.js* project in each folder with necessary dependencies (e.g., Prisma, Apollo Server, SQLite).  
+- Configure a `Prisma` schema for each service:  
   - `users-service`: Defines a `User` model with an `id` and at least two other fields.  
   - `posts-service`: Defines a `Post` model with an `id` and at least two other fields.  
 - Apply database migrations to create the databases and tables.  
 - Implement a GraphQL server in each microservice using Apollo Server:  
   - Define schema types and CRUD queries/mutations.  
   - Write resolvers to handle CRUD operations using Prisma.  
-- Run each service on a different port (e.g., **4001 for Users, 4002 for Posts**).  
-- Test all CRUD endpoints using a GraphQL client (e.g., GraphiQL) to ensure proper functionality.  
+- Run each service on a different port (e.g., 4001 for Users, 4002 for Posts).  
+- Test all *CRUD* endpoints using a GraphQL client (e.g., GraphiQL) to ensure proper functionality.  
 
 ### Submission  
 
