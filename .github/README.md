@@ -10,5 +10,5 @@ This repository contains my projects, assignments, and exercises for the IT3101 
 
 ### Assignments
 
-- [Assignment 1 - Database Migration](#https://github.com/WhiteBeardddd/IT-3101-Activities/tree/main/Assignments/Assignment_01)  
+- [Assignment 1 - Database Migration](https://github.com/WhiteBeardddd/IT-3101-Activities/tree/main/Assignments/Assignment_01)  
 

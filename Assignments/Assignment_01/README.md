@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves setting up a database using PostgreSQL and managing database migrations with Goose in a Go environment. The goal is to create and migrate three tables while documenting the process through an AI-assisted research conversation.
+This project involves setting up a database using `PostgreSQL` and managing database migrations with Goose in a Go environment. The goal is to create and migrate three tables while documenting the process through an AI-assisted research conversation.
 
 ## Steps to Complete the Project
 
